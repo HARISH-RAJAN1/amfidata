@@ -1,0 +1,4 @@
+pycurl,pymysql,numpy,pandas,requests,urllib.request,datetime,re,glob,os
+hostname=localhost
+username=root
+password=root
